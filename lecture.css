@@ -1,0 +1,81 @@
+*{   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(picture/hope.jpg);
+}
+
+section{
+    border: 10px black;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 0px;
+    align-items: center;
+    margin-left: 300px;
+}
+
+section h1{
+    color: white;
+}
+
+button{
+    background-color: goldenrod;
+    width: 150px;
+    
+}
+
+section p{
+    margin: 5px;
+}
+
+
+div{
+    height: 30vh;
+    color: gold;
+    text-align: center;
+    align-self: center;
+    margin: 10px;
+   
+
+
+}
+    .buremba{
+        position: relative;
+    }
+    
+    .buremba h1{
+        color: goldenrod;
+        margin: 80px;
+    
+    }
+    .buremba p{
+        color: whitesmoke;
+        font-size: 25px;
+        margin: 80px;
+        
+}
+
+
+.beginner{ 
+    background-color: grey;
+    border: 2px solid gold;
+
+
+}
+
+.expert{
+    background-color: grey;
+    border: 2px solid gold;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,319 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background: url(picture/hope.jpg);
+    
+}
+.xenia{
+    width: 100%;
+    height: 100px;
+    margin: 5px 200px;
+
+}
+
+.xenia ul li{
+    margin-right: 5px;
+    width: 150px;
+    background-color: white;
+    border: 3px solid grey;
+    text-align: center;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+    float: inline-end;
+}
+.container{
+    background-color:antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    
+    
+}
+.header{
+    margin-left: 80px;
+    margin-top: 0;
+    color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0;
+    width: 300px;
+    
+}
+form p{
+    margin: 10px 0;
+}
+form input{
+    height: 50px;
+    margin: 5px 0;
+    border: 2.5px solid black;
+    border-radius: 2.5px;
+    padding: 0 15px;
+    font-size: 15px;
+    font-family: Arial Narrow;
+    width: 300px;
+}
+form a{
+    font-weight: bold;
+    color: red;
+    font-size: 16px;
+
+
+}
+
+form button{
+    background-color: goldenrod;
+    height: 50px;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 2.5px solid black;
+    color:white;
+    cursor: pointer;
+}
+form h4{
+    color: black;
+}
+.footer label{
+    font-size: 18px;
+    opacity: 0.7;
+}
+section{
+    display: flex;
+    height: 10vh;
+    width: 20vw;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+    
+}.footer p{
+    font-size: 18px;
+    text-align: end;
+}
+.footer h4{
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+.timber{
+    background-color: antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    
+    
+}
+.click{
+    color: red;
+    font-size: 18px;
+}
+.click input{
+    font-size: 5px ;
+}
+.keran h1{
+    text-align: center;
+    color: white;
+    
+}
+.keran h2{
+    
+    color: gold;
+    margin-left:200px;
+    
+}
+.kenan form{
+    background-color: antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 200px;
+    width: 500px;
+
+}
+.kenan form p{
+    color: red;
+}
+
+.kereth ul li{
+    margin-right: 5px;
+    width: 150px;
+    float: right;
+    background-color: white;
+    border: 3px solid grey;
+    text-align: center;
+    height: 50px;
+    font-size: 15px;
+    color: black;
+}
+
+.kato{
+    background-color: antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.kato h3{
+    margin: 5px;
+
+}
+
+.kato h1,h2{
+    color: goldenrod;
+    margin-top: 20px;
+
+
+}
+
+.kato input{
+    height: 50px;
+    width:350px;
+
+
+}
+
+.kato h4{
+    color: red;
+    margin-top: 20px;
+    font-style: bold;
+}
+
+.wasswa{
+    position: relative;
+    left:10px;
+    margin-top: 1px;
+
+}
+
+.omo{
+    background-color: antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.omo h3{
+    margin: 5px;
+
+}
+
+.omo h1,h2{
+    color: goldenrod;
+    margin-top: 20px;
+
+
+}
+
+.omo input{
+    height: 50px;
+    width:350px;
+
+
+}
+
+.omo h4{
+    color: red;
+    margin-top: 20px;
+    font-style: bold;
+}
+
+.nomi{
+    position: relative;
+    left:10px;
+    margin-top: 1px;
+}
+
+.paul{
+    font-size: 20px;
+    color: red;
+}
+
+.sand{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.sand h3{
+    color: red;
+
+
+}
+
+
+.sand h1{
+    color: black;
+
+
+
+
+}
+
+
+
+.clay{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+
+.loam{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.soil button{
+    background-color: gold;
+    width: 10vw;
+    height: 5vh;
+    margin-top: 10px;
+}
+
+.rocks{
+    margin: 5px;
+    background-color:antiquewhite;
+    height: 60%;
+    border-radius: 30px;
+    top: 20%;
+    padding: 65px;
+    position: relative;
+    left: 500px;
+    width: 500px;
+    margin-top: 10px;
+    
+}
+
+
+
+

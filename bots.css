@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(picture/hope.jpg);
+}
+peacock{
+    border: 5px white;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:5px;
+    align-items: center;
+    place-content:end;
+}
+div{
+    height: 30vh;
+    border: 2px solid gold;
+    text-align: center;
+    margin: 20px ;
+    width: 20vw;
+    float:right;
+    background-color: grey;
+    color: gold;
+    font-size: 20px;
+
+}
+div h4{
+    color: white;
+}
+h2{
+    
+    margin:20px ;
+    color: white;
+    text-align: center;
+
+}
+section{
+    
+    float:inherit;
+    color: white;
+    margin: 20px;
+}
+
+button{
+    background-color: gold;
+    width: 15vw;
+    height: 5vh;
+    margin: 10px;
+    font-family:Arialblack;
+    font-size: 15px;
+    color: black;
+    margin-left: 580px;
+    
+}
